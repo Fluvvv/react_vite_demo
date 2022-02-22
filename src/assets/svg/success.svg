@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="63px" height="63px" viewBox="0 0 63 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="111.844724%" id="radialGradient-1">
+            <stop stop-color="#36ABFD" offset="0%"></stop>
+            <stop stop-color="#1972FA" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="供应商注册（官网）" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="阳光采购平台备份-11" transform="translate(-928.000000, -160.000000)">
+            <rect fill="#F8F8F8" x="0" y="0" width="1920" height="974"></rect>
+            <g id="编组-3" transform="translate(661.000000, 160.000000)">
+                <g id="编组-2" transform="translate(267.000000, 0.000000)">
+                    <circle id="椭圆形" fill="url(#radialGradient-1)" cx="31.5" cy="31.5" r="31.5"></circle>
+                    <g id="编组" transform="translate(17.000000, 22.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                        <path d="M11.1542373,20 C10.5824859,20 10.0129944,19.7825356 9.57683616,19.3498487 L0.652542373,10.4607107 C-0.217514124,9.59309494 -0.217514124,8.18518103 0.652542373,7.3175653 C1.52485876,6.44994956 2.93728814,6.44994956 3.80734463,7.3175653 L11.1542373,14.6351306 L25.1926554,0.652393229 C26.0627119,-0.21746441 27.4751412,-0.21746441 28.3474576,0.652393229 C29.2175141,1.52000897 29.2175141,2.92568098 28.3474576,3.79329672 L12.7316384,19.3498487 C12.2954802,19.7825356 11.7237288,20 11.1542373,20 Z" id="路径"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

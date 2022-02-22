@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="基本信息" transform="translate(-580.000000, -1014.000000)">
+            <rect fill="#F7FAFC" x="0" y="0" width="1440" height="1113"></rect>
+            <g id="新建/上传附件备份" transform="translate(567.000000, 1006.000000)">
+                <g id="编组-24" transform="translate(13.000000, 8.000000)">
+                    <rect id="矩形" fill="#0091FF" x="0" y="0" width="40" height="40"></rect>
+                    <g filter="url(#filter-1)" id="编组">
+                        <g transform="translate(6.000000, 9.000000)">
+                            <path d="M25,14.0079725 C25,13.8472622 24.9165966,13.6981859 24.78,13.6146166 L19.8400834,10.5893687 C19.644905,10.4697904 19.3918889,10.5130202 19.2470001,10.6907016 L17.0699168,13.3566783 L17.0405835,13.3898418 C16.8618575,13.569908 16.5717322,13.5703204 16.3925001,13.390763 L9.14991691,6.1344056 C8.97660712,5.96106096 8.69853568,5.95458098 8.51741692,6.11966627 L3.15033368,11.0324699 C3.05447137,11.1195775 3,11.2434378 3,11.3733169 L3,19 L25,19 L25,14.0079725 L25,14.0079725 Z" id="路径" fill="#000000" fill-rule="nonzero"></path>
+                            <path d="M20,6 C20,7.1045695 20.8954305,8 22,8 C23.1045695,8 24,7.1045695 24,6 C24,4.8954305 23.1045695,4 22,4 C20.8954305,4 20,4.8954305 20,6 Z" id="路径" fill="#000000" fill-rule="nonzero"></path>
+                            <path d="M0,0 L0,22 L28,22 L28,0 L0,0 Z M26.1333333,20.1666667 L1.86666667,20.1666667 L1.86666667,1.83333333 L26.1333333,1.83333333 L26.1333333,20.1666667 Z" id="形状" fill="#000000" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
